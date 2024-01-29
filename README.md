@@ -86,7 +86,10 @@ with:
 ---
 ## How to run the code
 Simply execute the given Python or Jupyter notebook file. Note that the *.py file was run using SLURM job manager, you therefore might need to comment the lines waiting for command line input. Training parameters can be adjusted beforehand inside the file itself.
+Note that the network model is defined within this code for now.
+
 The JupyterLab environment was used to test and develope new models and to debug existing code segments. 
+Note that the actual models of the network used are defined inside the models_\*.py files.
 
 In the following an exemplary file structure for running the *.py files is depicted:
 ```
