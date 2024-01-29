@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Blarr"
+    given-names: "Juliane"
+    orcid: "https://orcid.org/0000-0003-0419-0780"
+  - family-names: "Klinder"
+    given-names: "Steffen"
+    orcid: "https://orcid.org/0009-0003-3916-1733"
+  - family-names: "Liebig"
+    given-names: "Wilfried V."
+    orcid: "https://orcid.org/0000-0003-1855-6237"
+  - family-names: "Inal"
+    given-names: "Kaan"
+    orcid: "https://orcid.org/0000-0002-8824-1831"
+  - family-names: "Kärger"
+    given-names: "Luise"
+    orcid: "https://orcid.org/0000-0002-6534-6518"
+  - family-names: "Weidenmann"
+    given-names: "Kay A."
+    orcid: "https://orcid.org/0000-0002-6529-6514"
+
+  title: "Deep convolutional generative adversarial network for generation of computed tomography images of heterogeneous low-contrast microstructures"
+  version: 2.0.4
+  doi: 10.5281/zenodo.XXXX
+  date-released: 2024-XX-XX
+  journal: "Nature Scientific Reports"
+  month: 1
+  start: 1 # First page number
+  end: 1 # Last page number
+  issue: 1
+  volume: 1
+  year: 2024
