@@ -6,10 +6,10 @@
 # microDCGAN
 ## _Deep convolutional generative adversarial network for generation of computed tomography images of discontinuously carbon fiber reinforced polymer microstructures_
 Steffen Klinder<sup>1
-[<img src="Icons/orcid.svg" alt="Icon" width="15" height="15">](https://orcid.org/0009-0003-3916-1733)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="Icon" width="15" height="15">](https://orcid.org/0009-0003-3916-1733)
 </sup>and
 Juliane Blarr<sup>1*
-[<img src="Icons/orcid.svg" alt="Icon" width="15" height="15">](https://orcid.org/0000-0003-0419-0780)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="Icon" width="15" height="15">](https://orcid.org/0000-0003-0419-0780)
 </sup>
 
 <sub>
