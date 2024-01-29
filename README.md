@@ -43,7 +43,7 @@ If you use the code in this repository _and_ the associated data set, please cit
 
 #### Paper
 More information on theory, methods and results can be found in the accompanying paper by Blarr et al. (Nature Scientific Reports 2024):
-- [Deep convolutional generative adversarial network for generation of computed tomography images of heterogeneous low-contrast microstructures](doi.org/XX.XXXXX/XXXX) (DOI: XX.XXXXX/XXXX)
+- [Deep convolutional generative adversarial network for generation of computed tomography images of discontinuously carbon fiber reinforced polymer microstructures](doi.org/XX.XXXXX/XXXX) (DOI: XX.XXXXX/XXXX)
 
 #### Data set
 The data set used for this work was published separately:
